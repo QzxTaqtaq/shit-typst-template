@@ -1,5 +1,5 @@
-#import "@preview/shit-journal:0.1.0": *
-//#import "../lib.typ": *
+//#import "@preview/shit-journal:0.1.0": *
+#import "../lib.typ": *
 
 #show: paper.with(
   title: "这里是论文的中文标题，请替换为您的研究题目",
