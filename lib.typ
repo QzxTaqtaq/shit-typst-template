@@ -98,6 +98,6 @@
 
     #show regex("\\[[0-9]+\\]"): set text(fill: rgb("#c00100"))
     
-    #bibliography("refs.bib", style: "ieee", title: none, full: true)
+    #bibliography("/template/refs.bib", style: "ieee", title: none, full: true)
   ]
 }
