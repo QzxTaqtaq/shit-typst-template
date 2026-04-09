@@ -1,4 +1,4 @@
-#import "template.typ": ieee-paper
+#import "lib.typ": ieee-paper
 #import "config/tables.typ": tables
 
 #show: ieee-paper.with(
