@@ -1,5 +1,5 @@
-#import "lib.typ": ieee-paper
-#import "config/tables.typ": tables
+#import "../lib.typ": ieee-paper
+#import "../config/tables.typ": tables
 
 #show: ieee-paper.with(
   title: "这里是论文的中文标题，请替换为您的研究题目",

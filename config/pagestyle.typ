@@ -10,8 +10,8 @@
       #grid(
         columns: (1fr, 1fr),
         align: (left + bottom, right + bottom),
-        image("/img/LOGO1.png", height: 40pt),
-        image("/img/LOGO2.png", height: 40pt)
+        image("/imgs/LOGO1.png", height: 40pt),
+        image("/imgs/LOGO2.png", height: 40pt)
       )
       #v(-4pt)
       #line(length: 100%, stroke: 0.5pt + black)
