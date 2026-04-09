@@ -6,7 +6,7 @@
 
 #let conftables = tables.conftables
 
-#let ieee-paper(
+#let paper(
   title: "",
   authors: (),
   affiliations: (),
