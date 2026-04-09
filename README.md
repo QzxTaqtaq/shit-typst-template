@@ -1,6 +1,6 @@
 ## S.H.*.T Typst Template
 
-![SHIT_LOGO](./imgs/LOGO1.png)
+![The logo of S.H.*.T. journal](./imgs/LOGO1.png)
 
 > 为 [S.H.*.T](https://shitspace.xyz/) 期刊编写的typst模板，带来超越word与tex的体验，助你轻松编辑，简洁书写。
 > 如果这帮到了你，阁下不妨点击⭐️作为激励
